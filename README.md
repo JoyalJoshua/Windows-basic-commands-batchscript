@@ -25,41 +25,50 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="402" height="94" alt="Screenshot 2026-03-09 135214" src="https://github.com/user-attachments/assets/179fbe20-18f3-4fb7-9239-0f13406c4eaf" />
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="377" height="78" alt="Screenshot 2026-03-09 135242" src="https://github.com/user-attachments/assets/f98d49ee-681c-4e48-9bea-eca29e92f576" />
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="447" height="129" alt="Screenshot 2026-03-09 135300" src="https://github.com/user-attachments/assets/fc095be8-6d57-4380-a381-53d97c54ec98" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="531" height="114" alt="Screenshot 2026-03-09 135318" src="https://github.com/user-attachments/assets/afc80a75-2633-49d0-b59c-0853b14b468c" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="503" height="142" alt="Screenshot 2026-03-09 135338" src="https://github.com/user-attachments/assets/3d91d5ae-3404-4a05-a34d-6a5dc2826091" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="460" height="123" alt="Screenshot 2026-03-09 135353" src="https://github.com/user-attachments/assets/6edb48c7-b431-44c7-bd67-ca60ef50aec0" />
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+<img width="483" height="227" alt="Screenshot 2026-03-09 135421" src="https://github.com/user-attachments/assets/0d997339-e347-4619-980b-3e4da0d146bd" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+<img width="564" height="891" alt="Screenshot 2026-03-09 135534" src="https://github.com/user-attachments/assets/cb59db60-2b03-4351-a950-fc379c43bc1a" />
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="537" height="249" alt="Screenshot 2026-03-09 135552" src="https://github.com/user-attachments/assets/f115dbbd-e36e-4a13-8008-629c2722d6ba" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
